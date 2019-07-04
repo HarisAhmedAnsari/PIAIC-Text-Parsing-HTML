@@ -1,0 +1,10 @@
+Subject 1 Marks = 80
+Subject 2 Marks = 70
+Subject 3 Marks = 60
+Subject 4 Marks = 50
+Subject 5 Marks = 40
+Total Marks = 500
+Marks Obtained = 300
+Percentage = 60.0
+Grade = B
+	second paragraph
